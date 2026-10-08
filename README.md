@@ -1,0 +1,2 @@
+# opengl32.dll
+ESP ISSUE FIX FOR 7S OPENGL.DLL
